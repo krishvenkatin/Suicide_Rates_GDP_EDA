@@ -21,7 +21,7 @@ The relationship between GDP per capita and suicide rates is analyzed to determi
 ## Data Sources
 1. [Kaggle - Suicide Rates Overview 1985 to 2016](https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016)
 2. [World Bank - World Development Indicators: GDP (current US$)](http://databank.worldbank.org/data/source/world-development-indicators#)
-3. 4. World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
+3. World Health Organization. (2018). Suicide prevention. Retrieved from http://www.who.int/mental_health/suicide-prevention/en/
 (https://github.com/krishvenkatin/Suicide_Rates_GDP_EDA/assets/73964796/bfb6142c-4340-434c-af2e-4e2f25ea5a9f)
 
 
